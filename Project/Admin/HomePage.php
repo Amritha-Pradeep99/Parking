@@ -270,6 +270,10 @@ include('../Assets/Connection/Connection.php');
             <!-- Widgets End -->
 
 
+
+
+            
+
            <?php
            include("Foot.php");
            ?>
